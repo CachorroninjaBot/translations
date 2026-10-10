@@ -342,7 +342,7 @@
   "cmd_resend_invalid_webhook_2": "Isso parece preocupante. Para resolver o problema, tente mudar para um canal diferente e, em seguida, volte para {channel}. Se o erro persistir, entre em contato com o suporte!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "OOps!",
+  "cmd_resend_nosend_1": "Oops!",
 
   // Looks like FreeStuff doesn't have the permission to send messages in {channel}!
   "cmd_resend_nosend_2": "Parece que o FreeStuff não tem permissão para enviar mensagens em {channel}!",
